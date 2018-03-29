@@ -1,0 +1,13 @@
+/*Custom css*/
+
+#footer{
+	margin-top: 30px;
+	padding: 10px;
+	color: #fff;
+	background-color: #0c84e4;
+}
+
+#footer p{
+	margin-bottom: 0px;
+}
+
